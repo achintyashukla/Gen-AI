@@ -15,3 +15,7 @@ This repository contains solutions for the Tutedude Gen AI Assignments.
 - **[GenAI-Task3-AchintyaShukla/](./GenAI-Task3-AchintyaShukla/)**
   - **Topic**: Python Functions
   - **Description**: Introduces user-defined functions, recursive functions, lambda functions, and higher-order functions like `map()` and `filter()` for data manipulation and GST calculations.
+
+- **[GenAI-Task4-AchintyaShukla/](./GenAI-Task4-AchintyaShukla/)**
+  - **Topic**: File Handling (Read, Write, Append, Modes)
+  - **Description**: Focuses on reading from and writing to files safely using context managers, extracting insights from text files, and appending data without deleting original content.
