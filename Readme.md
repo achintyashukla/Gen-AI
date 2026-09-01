@@ -19,3 +19,7 @@ This repository contains solutions for the Tutedude Gen AI Assignments.
 - **[GenAI-Task4-AchintyaShukla/](./GenAI-Task4-AchintyaShukla/)**
   - **Topic**: File Handling (Read, Write, Append, Modes)
   - **Description**: Focuses on reading from and writing to files safely using context managers, extracting insights from text files, and appending data without deleting original content.
+
+- **[GenAI-Task5-AchintyaShukla/](./GenAI-Task5-AchintyaShukla/)**
+  - **Topic**: Importing, Creating Modules & Packages
+  - **Description**: Focuses on organizing code into reusable modules and packages, importing them using different methods, and keeping projects scalable.
