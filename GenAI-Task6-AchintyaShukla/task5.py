@@ -5,7 +5,7 @@ cart = []
 print("--- Safe Shopping Cart ---")
 
 while True:
-    user_input = input("> Enter a price (or 'q' to quit): ")
+    user_input = input("Enter a price (or 'q' to quit): ")
     
     if user_input.lower() == 'q':
         break

@@ -27,3 +27,7 @@ This repository contains solutions for the Tutedude Gen AI Assignments.
 - **[GenAI-Task6-AchintyaShukla/](./GenAI-Task6-AchintyaShukla/)**
   - **Topic**: Exception Handling
   - **Description**: Covers error handling using `try/except/else/finally` blocks, raising custom exceptions, and gracefully managing unexpected user inputs and file operations.
+
+- **[GenAI-Task7-AchintyaShukla/](./GenAI-Task7-AchintyaShukla/)**
+  - **Topic**: Object-Oriented Programming (OOP)
+  - **Description**: Introduces OOP concepts such as classes, encapsulation, inheritance, polymorphism, abstraction, magic methods, and building a mini inventory system.
