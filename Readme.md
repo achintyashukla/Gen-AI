@@ -31,3 +31,7 @@ This repository contains solutions for the Tutedude Gen AI Assignments.
 - **[GenAI-Task7-AchintyaShukla/](./GenAI-Task7-AchintyaShukla/)**
   - **Topic**: Object-Oriented Programming (OOP)
   - **Description**: Introduces OOP concepts such as classes, encapsulation, inheritance, polymorphism, abstraction, magic methods, and building a mini inventory system.
+
+- **[GenAI-Task8-AchintyaShukla/](./GenAI-Task8-AchintyaShukla/)**
+  - **Topic**: Streamlit (Basic App Building)
+  - **Description**: Covers building basic interactive web apps and dashboards using Streamlit components like buttons, sliders, sidebars, metrics, and bar charts.
