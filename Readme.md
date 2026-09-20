@@ -35,3 +35,7 @@ This repository contains solutions for the Tutedude Gen AI Assignments.
 - **[GenAI-Task8-AchintyaShukla/](./GenAI-Task8-AchintyaShukla/)**
   - **Topic**: Streamlit (Basic App Building)
   - **Description**: Covers building basic interactive web apps and dashboards using Streamlit components like buttons, sliders, sidebars, metrics, and bar charts.
+
+- **[GenAI-Task9-AchintyaShukla/](./GenAI-Task9-AchintyaShukla/)**
+  - **Topic**: NumPy (Mathematical & Statistical Operations)
+  - **Description**: Covers creating NumPy arrays, performing mathematical operations, applying aggregation and statistical functions, calculating percentiles, sorting arrays, and practical sales data analysis without using loops.
