@@ -11,3 +11,13 @@ This directory contains solutions for Assignment 9, which focuses on understandi
 - `task5.py`: Statistical Operations (Core Focus)
 - `task6.py`: Percentiles & Sorting
 - `task7.py`: Mini Use Case: Sales Analysis
+
+## Execution Instructions
+
+To run any of the tasks, ensure you have Python installed and the required libraries (e.g., `numpy`).
+Run each file individually using the command line:
+```bash
+python task1.py
+python task2.py
+# and so on...
+```
