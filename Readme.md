@@ -39,3 +39,7 @@ This repository contains solutions for the Tutedude Gen AI Assignments.
 - **[GenAI-Task9-AchintyaShukla/](./GenAI-Task9-AchintyaShukla/)**
   - **Topic**: NumPy (Mathematical & Statistical Operations)
   - **Description**: Covers creating NumPy arrays, performing mathematical operations, applying aggregation and statistical functions, calculating percentiles, sorting arrays, and practical sales data analysis without using loops.
+
+- **[GenAI-Task10-AchintyaShukla/](./GenAI-Task10-AchintyaShukla/)**
+  - **Topic**: Pandas (Series, DataFrame, Functions, Filtering & Analysis)
+  - **Description**: Focuses on creating and manipulating Pandas Series and DataFrames, mathematical operations, filtering data, grouping, and simple plotting without using advanced EDA or ML.
