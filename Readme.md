@@ -47,3 +47,7 @@ This repository contains solutions for the Tutedude Gen AI Assignments.
 - **[GenAI-Task11-AchintyaShukla/](./GenAI-Task11-AchintyaShukla/)**
   - **Topic**: Matplotlib (Core Plot Types & Visualization)
   - **Description**: Covers creating core visualizations directly with `matplotlib.pyplot`—including line, scatter, vertical/horizontal bar, multiple bar, stacked bar, histogram, and pie charts—using the Kaggle Sample Superstore Sales dataset.
+
+- **[GenAI-Task12-AchintyaShukla/](./GenAI-Task12-AchintyaShukla/)**
+  - **Topic**: Seaborn (Relational, Distribution, Categorical & Multi-Plots)
+  - **Description**: Focuses on Exploratory Data Analysis (EDA) using Seaborn, Pandas, and Matplotlib—covering relational, line/faceted, distribution, bivariate, matrix, categorical, regression, and figure-level multi-plots on the Kaggle Medical Cost Personal Dataset.
