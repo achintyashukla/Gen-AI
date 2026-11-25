@@ -43,3 +43,7 @@ This repository contains solutions for the Tutedude Gen AI Assignments.
 - **[GenAI-Task10-AchintyaShukla/](./GenAI-Task10-AchintyaShukla/)**
   - **Topic**: Pandas (Series, DataFrame, Functions, Filtering & Analysis)
   - **Description**: Focuses on creating and manipulating Pandas Series and DataFrames, mathematical operations, filtering data, grouping, and simple plotting without using advanced EDA or ML.
+
+- **[GenAI-Task11-AchintyaShukla/](./GenAI-Task11-AchintyaShukla/)**
+  - **Topic**: Matplotlib (Core Plot Types & Visualization)
+  - **Description**: Covers creating core visualizations directly with `matplotlib.pyplot`—including line, scatter, vertical/horizontal bar, multiple bar, stacked bar, histogram, and pie charts—using the Kaggle Sample Superstore Sales dataset.
